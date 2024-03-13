@@ -1,0 +1,16 @@
+
+/* Styling for Home Section */
+#home {
+    font-size: 18px;
+    color: #cfa416;
+  }
+  /* Styling for About Section */
+  #about {
+    font-size: 20px;
+    color: rgb(151, 39, 82);
+  }
+  /* Styling for Projects Section */
+  #projects {
+    font-size: 16px;
+    color: #0a741c;
+  }
